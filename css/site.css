@@ -1,7 +1,13 @@
 body{
-    background-color: blanchedalmond;
+    background-color: lightseagreen;
 }
 div#root{
-    background-color: blue;
-    color: greenyellow;
+    background-color: peru;
+    color: purple;
 }
+
+div#msg{
+    background-color: peru;
+    color: lightgrey;
+}
+
