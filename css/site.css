@@ -1,9 +1,12 @@
 body{
     background-color: lightseagreen;
+    text-align: center;
 }
 div#root{
     background-color: peru;
     color: purple;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 200px;
 }
 
 div#msg{
@@ -11,3 +14,7 @@ div#msg{
     color: lightgrey;
 }
 
+button#btn{
+    background-color: blueviolet;
+    color:darkturquoise
+}
